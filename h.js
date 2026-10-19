@@ -1,0 +1,1 @@
+console.log("Rwanda".slice(1, 4));
